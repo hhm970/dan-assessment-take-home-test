@@ -161,3 +161,10 @@ cython_debug/
 #.idea/
 
 .venv
+
+
+# ADDED BY HOWARD - I used .ipynb files to experiment with pandas!
+# Also don't really want to be committing my PROCESSED_DATA.csv
+
+*.ipynb
+PROCESSED_DATA.csv
